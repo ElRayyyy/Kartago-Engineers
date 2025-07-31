@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Run AI with a specific board position
 python3 alpha_beta_ki.py "7/7/7/3RG12/7/7/7 r"
 
@@ -11,3 +12,7 @@ python3 parameter_optimizer.py
 
 # Test optimized AI performance - we use it for debug
 python3 test_optimized_ai.py
+=======
+# Kartago-Engineers
+Projekt :"Symbolische Künstliche Intelligenz"
+>>>>>>> 245caa965dce5b51fba812407e4504b9d70b0f9d
